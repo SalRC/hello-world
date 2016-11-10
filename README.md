@@ -1,4 +1,4 @@
 # hello-world
 Try Github &amp; its various functionalities
 
-This is the first comment added to readme file inside branch readme-edit
+This is a new comment for Release 1 - deleted an old line
