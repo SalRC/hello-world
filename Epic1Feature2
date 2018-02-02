@@ -3,3 +3,5 @@ Epic1Feature2 file
 release 1 attributes: C,D,E
 
 Emergency modifications to this file required as a part of hotfix - a new branch will be created which would be later on merged back to main once changes are tested
+
+New additions to this file under Rel6 Branch on 02-02-2018
