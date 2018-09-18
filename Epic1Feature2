@@ -10,5 +10,11 @@ Another change to the file in Master Branch to check conflict while merging the 
 
 Retaining both the lines - one added from Rel6 & one added directly into Main - just delete the ">>>> Rel6" and ">>>>Main" headers which highlight the changes
 
+
 Added new line in Rel07 - this file will be committed to Rel07 through a Pull Request 
 (by creating another branch first - the changes will be reviewed within that new Branch and merged to Rel07 branch post that)
+
+Added new line in Rel6 branch (this file has also been modified in Rel7 branch)
+This would be merged with Main before Rel7 branch is merged
+
+Retaining changes from both Rel6 & Rel7 lines 14, 15 and 17,18 respectively in the file
