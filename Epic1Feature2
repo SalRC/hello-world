@@ -9,3 +9,6 @@ New additions to this file under Rel6 Branch on 02-02-2018
 Another change to the file in Master Branch to check conflict while merging the updated Branch from Rel6 - added on 02-02-2018
 
 Retaining both the lines - one added from Rel6 & one added directly into Main - just delete the ">>>> Rel6" and ">>>>Main" headers which highlight the changes
+
+Added new line in Rel6 branch (this file has also been modified in Rel7 branch)
+This would be merged with Main before Rel7 branch is merged
